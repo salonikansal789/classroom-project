@@ -52,7 +52,7 @@ npm run dev
 
 Frontend:
 
-git clone https://github.com/salonikansal789/classroom-project.git
+git clone https://github.com/salonikansal789/classroom-frontend.git
 cd swerks-socket-vite
 npm install
 npm run dev
