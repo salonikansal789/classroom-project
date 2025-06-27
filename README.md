@@ -45,14 +45,14 @@ A real-time virtual classroom backend built with Node.js, TypeScript, Express, S
 
 Backend: 
 
-git clone https://github.com/pverma911/swerks-socket.git
+git clone https://github.com/salonikansal789/classroom-project.git
 cd swerks-socket
 npm install
 npm run dev
 
 Frontend:
 
-git clone https://github.com/pverma911/swerks-socket-vite
+git clone https://github.com/salonikansal789/classroom-project.git
 cd swerks-socket-vite
 npm install
 npm run dev
